@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @guen-Kim
 - 👀 I’m interested in  Android
 - 🌱 I’m currently learning Retrofit API
-- 📫 How to reach me guen5997@naver.coma
-<div align=center>📚 STACKS</div>
+- 📫 How to reach me guen5997@naver.com
+<div align=center><a>📚</a> STACKS</div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
