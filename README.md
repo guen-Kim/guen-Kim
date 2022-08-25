@@ -1,7 +1,20 @@
 - 👋 Hi, I’m @guen-Kim
 - 👀 I’m interested in  Android
 - 🌱 I’m currently learning Retrofit API
-- 📫 How to reach me guen5997@naver.com
+- 📫 How to reach me guen5997@naver.coma
+<div align=center>📚 STACKS</div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+   
+   
+</div>
 
 <!---
 guen-Kim/guen-Kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
