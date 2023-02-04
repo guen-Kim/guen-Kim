@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @guen-Kim
-- 👀 I’m interested in  Android
-- 🌱 I’m currently learning Retrofit API
 - 📫 How to reach me guen5997@naver.com
 
 
