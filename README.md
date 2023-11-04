@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guen-Kim
+- 👋 Hi, I’m guen-Kim
 - 📫 How to reach me guen5997@naver.com
 
 
